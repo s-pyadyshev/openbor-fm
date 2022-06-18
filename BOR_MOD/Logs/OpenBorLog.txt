@@ -1,0 +1,180 @@
+Total Ram: 17110073344 Bytes
+ Free Ram: 6680973312 Bytes
+ Used Ram: 6561792 Bytes
+
+debug:nativeWidth, nativeHeight, bpp, Hz  1920, 1080, 24, 60
+OpenBoR v3.0 Build 6391, Compile Date: Apr  8 2020
+
+Game Selected: ./Paks/My Mod.pak
+
+FileCaching System Init......	Disabled
+Initializing video............
+'data/video.txt' not found.
+Initialized video.............	320x240 (Mode: 0)
+
+Loading menu.txt.............	Done!
+Loading fonts................	1 2 3 4 Done!
+Timer init...................	Done!
+Initialize Sound..............	
+Loading sprites..............	Done!
+Loading level order..........	Done!
+Loading model constants......	Done!
+Loading script settings......	Done!
+Loading scripts..............	Done!
+Loading models...............
+
+Joystick: "UNKNOWN" connected at port: 0 at 2022-06-16 01:32:36
+Joystick: "UNKNOWN" connected at port: 1 at 2022-06-16 01:32:36
+Cacheing 'Flash' from data/chars/misc/flash.txt
+Cacheing 'dio' from Data/Chars/dio/dio.txt
+Cacheing 'Kula' from data/chars/kula/kula.txt
+Cacheing 'Max' from data/chars/maxima/maxima.txt
+Cacheing 'Mandy' from data/chars/mary/mary.txt
+Cacheing 'Mighty' from data/chars/mighty/mighty.txt
+Cacheing 'Apple' from data/chars/misc/apple.txt
+Cacheing 'Meat' from data/chars/misc/meat.txt
+Cacheing '1up' from data/chars/misc/1up.txt
+Cacheing 'Money' from data/chars/misc/money.txt
+Cacheing 'Gold' from data/chars/misc/gold.txt
+Cacheing 'Time' from data/chars/misc/time.txt
+Cacheing 'Box' from data/chars/misc/box.txt
+Cacheing 'Crate' from data/chars/misc/crate.txt
+Cacheing 'Trash' from data/chars/misc/trash.txt
+Cacheing 'Table' from data/chars/misc/table.txt
+Cacheing 'Chair' from data/chars/misc/chair.txt
+Cacheing 'Fence' from data/chars/misc/fence.txt
+Cacheing 'Drum' from data/chars/misc/drum.txt
+Cacheing 'Trolly' from data/chars/misc/trolly.txt
+Cacheing 'K'' from data/chars/k/k.txt
+Cacheing 'biker-K'' from data/chars/biker-k/biker-k.txt
+Cacheing 'Yashiro' from data/chars/yashiro/yashiro.txt
+Cacheing 'Ralf' from data/chars/ralf/ralf.txt
+Cacheing 'Shermie' from data/chars/shermie/shermie.txt
+Cacheing 'Eiji' from data/chars/eiji/eiji.txt
+Cacheing 'Joe' from data/chars/joe/joe.txt
+Cacheing 'Yamazaki' from data/chars/yamazaki/yamazaki.txt
+Cacheing 'Angel' from data/chars/angel/angel.txt
+Cacheing 'Billy' from data/chars/billy/billy.txt
+Cacheing 'Jhun' from data/chars/jhun/jhun.txt
+Cacheing 'Mrbig' from data/chars/mrbig/mrbig.txt
+Cacheing 'Robert' from data/chars/robert/robert.txt
+Cacheing 'Heavy' from data/chars/heavy/heavy.txt
+Cacheing 'K9999' from data/chars/K9999/K9999.txt
+Cacheing 'Rugal' from data/chars/Rugal/Rugal.txt
+Cacheing 'Ramon' from data/chars/ramon/ramon.txt
+Cacheing 'Knife' from data/chars/misc/knife.txt
+Cacheing 'Shot' from data/chars/misc/shot.txt
+Cacheing 'Star' from data/chars/misc/star.txt
+Cacheing 'Steam' from data/chars/misc/steam.txt
+Cacheing 'Steamer' from data/chars/misc/steamer.txt
+Cacheing 'Furnace' from data/chars/misc/furnace.txt
+Cacheing 'Crab' from data/chars/crab/crab.txt
+Cacheing 'Lobster' from data/chars/Lobster/Lobster.txt
+
+Loaded 'Flash' from data/chars/misc/flash.txt 
+Loaded 'DIO' from Data/Chars/dio/dio.txt 
+Loaded 'Kula' from data/chars/kula/kula.txt 
+Loaded 'Max' from data/chars/maxima/maxima.txt 
+Loaded 'Mandy' from data/chars/mary/mary.txt 
+Loaded 'Mighty' from data/chars/mighty/mighty.txt 
+
+Loading models...............	Done!
+Object engine init...........	Done!
+Input init...................	
+2 joystick(s) found!
+1. UNKNOWN - 6 axes, 11 buttons, 1 hat(s)
+
+2. UNKNOWN - 6 axes, 11 buttons, 1 hat(s)
+Done!
+Create blending tables.......	Done!
+Save settings so far........	Done!
+
+
+Level Loading:   'data/levels/example1.txt'
+Total Ram: 17110073344 Bytes
+ Free Ram: 6517846016 Bytes
+ Used Ram: 70856704 Bytes
+
+Loaded '1up' from data/chars/misc/1up.txt 
+Loaded 'Shermie' from data/chars/shermie/shermie.txt 
+Loaded 'Steamer' from data/chars/misc/steamer.txt 
+Loaded 'Steam' from data/chars/misc/steam.txt 
+Loaded 'Yashiro' from data/chars/yashiro/yashiro.txt 
+Loaded 'Trash' from data/chars/misc/trash.txt 
+Loaded 'money' from data/chars/misc/money.txt 
+Loaded 'gold' from data/chars/misc/gold.txt 
+Loaded 'ralf' from data/chars/ralf/ralf.txt 
+Loaded 'biker-k'' from data/chars/biker-k/biker-k.txt 
+Loaded 'K'' from data/chars/k/k.txt 
+Loaded 'Lobster' from data/chars/Lobster/Lobster.txt 
+
+Level Loaded:    'data/levels/example1.txt'
+Total Ram: 17110073344 Bytes
+ Free Ram: 6511144960 Bytes
+ Used Ram: 72478720 Bytes
+Total sprites mapped: 669
+
+
+************ Shutting Down ************
+
+OpenBOR v3.0 Build 6391, Compile Date: Apr  8 2020
+Presented by the OpenBOR Team.
+www.chronocrash.com
+OpenBOR is the open source continuation of Beats of Rage by Senile Team.
+
+Special thanks to SEGA and SNK.
+
+Total Ram: 17110073344 Bytes
+ Free Ram: 6538334208 Bytes
+ Used Ram: 72491008 Bytes
+
+Release level data...........
+Level Unloading: 'data/levels/example1.txt'
+Total Ram: 17110073344 Bytes
+ Free Ram: 6557564928 Bytes
+ Used Ram: 72491008 Bytes
+
+RAM Status:
+Total Ram: 17110073344 Bytes
+ Free Ram: 6557564928 Bytes
+ Used Ram: 72491008 Bytes
+
+Done!
+
+Release graphics data........	Done!
+Release game data............
+
+Unload 'Flash' ............Done.
+Unload 'DIO' ............Done.
+Unload 'Kula' ............Done.
+Unload 'Max' ............Done.
+Unload 'Mandy' ............Done.
+Unload 'Mighty' ............Done.
+Unload '1up' ............Done.
+Unload 'Shermie' ............Done.
+Unload 'Steamer' ............Done.
+Unload 'Steam' ............Done.
+Unload 'Yashiro' ............Done.
+Unload 'Trash' ............Done.
+Unload 'Money' ............Done.
+Unload 'Gold' ............Done.
+Unload 'Ralf' ............Done.
+Unload 'Biker-K'' ............Done.
+Unload 'K'' ............Done.
+Unload 'Lobster' ............Done.
+
+Release game data............	Done!
+Release timer................	Done!
+Release input hardware.......	Done!
+Release sound system.........	Done!
+Release FileCaching System...	Done!
+
+**************** Done *****************
+
+OpenBOR v3.0 Build 6391, Compile Date: Apr  8 2020
+Presented by the OpenBOR Team.
+www.chronocrash.com
+OpenBOR is the open source continuation of Beats of Rage by Senile Team.
+
+Special thanks to SEGA and SNK.
+
