@@ -1,6 +1,6 @@
 Total Ram: 17110073344 Bytes
- Free Ram: 6680973312 Bytes
- Used Ram: 6561792 Bytes
+ Free Ram: 9644773376 Bytes
+ Used Ram: 6610944 Bytes
 
 debug:nativeWidth, nativeHeight, bpp, Hz  1920, 1080, 24, 60
 OpenBoR v3.0 Build 6391, Compile Date: Apr  8 2020
@@ -23,8 +23,8 @@ Loading script settings......	Done!
 Loading scripts..............	Done!
 Loading models...............
 
-Joystick: "UNKNOWN" connected at port: 0 at 2022-06-16 01:32:36
-Joystick: "UNKNOWN" connected at port: 1 at 2022-06-16 01:32:36
+Joystick: "UNKNOWN" connected at port: 0 at 2022-06-26 22:31:47
+Joystick: "UNKNOWN" connected at port: 1 at 2022-06-26 22:31:47
 Cacheing 'Flash' from data/chars/misc/flash.txt
 Cacheing 'dio' from Data/Chars/dio/dio.txt
 Cacheing 'Kula' from data/chars/kula/kula.txt
@@ -45,6 +45,7 @@ Cacheing 'Chair' from data/chars/misc/chair.txt
 Cacheing 'Fence' from data/chars/misc/fence.txt
 Cacheing 'Drum' from data/chars/misc/drum.txt
 Cacheing 'Trolly' from data/chars/misc/trolly.txt
+Cacheing 'Plant' from data/chars/misc/plant.txt
 Cacheing 'K'' from data/chars/k/k.txt
 Cacheing 'biker-K'' from data/chars/biker-k/biker-k.txt
 Cacheing 'Yashiro' from data/chars/yashiro/yashiro.txt
@@ -92,16 +93,16 @@ Save settings so far........	Done!
 
 Level Loading:   'data/levels/example1.txt'
 Total Ram: 17110073344 Bytes
- Free Ram: 6517846016 Bytes
- Used Ram: 70856704 Bytes
+ Free Ram: 9612697600 Bytes
+ Used Ram: 70840320 Bytes
 
-Loaded '1up' from data/chars/misc/1up.txt 
+Loaded 'Plant' from data/chars/misc/plant.txt 
+Loaded 'money' from data/chars/misc/money.txt 
 Loaded 'Shermie' from data/chars/shermie/shermie.txt 
 Loaded 'Steamer' from data/chars/misc/steamer.txt 
 Loaded 'Steam' from data/chars/misc/steam.txt 
 Loaded 'Yashiro' from data/chars/yashiro/yashiro.txt 
 Loaded 'Trash' from data/chars/misc/trash.txt 
-Loaded 'money' from data/chars/misc/money.txt 
 Loaded 'gold' from data/chars/misc/gold.txt 
 Loaded 'ralf' from data/chars/ralf/ralf.txt 
 Loaded 'biker-k'' from data/chars/biker-k/biker-k.txt 
@@ -110,9 +111,9 @@ Loaded 'Lobster' from data/chars/Lobster/Lobster.txt
 
 Level Loaded:    'data/levels/example1.txt'
 Total Ram: 17110073344 Bytes
- Free Ram: 6511144960 Bytes
- Used Ram: 72478720 Bytes
-Total sprites mapped: 669
+ Free Ram: 9609273344 Bytes
+ Used Ram: 72413184 Bytes
+Total sprites mapped: 671
 
 
 ************ Shutting Down ************
@@ -125,19 +126,19 @@ OpenBOR is the open source continuation of Beats of Rage by Senile Team.
 Special thanks to SEGA and SNK.
 
 Total Ram: 17110073344 Bytes
- Free Ram: 6538334208 Bytes
- Used Ram: 72491008 Bytes
+ Free Ram: 9636564992 Bytes
+ Used Ram: 72097792 Bytes
 
 Release level data...........
 Level Unloading: 'data/levels/example1.txt'
 Total Ram: 17110073344 Bytes
- Free Ram: 6557564928 Bytes
- Used Ram: 72491008 Bytes
+ Free Ram: 9636564992 Bytes
+ Used Ram: 72097792 Bytes
 
 RAM Status:
 Total Ram: 17110073344 Bytes
- Free Ram: 6557564928 Bytes
- Used Ram: 72491008 Bytes
+ Free Ram: 9636564992 Bytes
+ Used Ram: 72097792 Bytes
 
 Done!
 
@@ -150,13 +151,13 @@ Unload 'Kula' ............Done.
 Unload 'Max' ............Done.
 Unload 'Mandy' ............Done.
 Unload 'Mighty' ............Done.
-Unload '1up' ............Done.
+Unload 'Plant' ............Done.
+Unload 'Money' ............Done.
 Unload 'Shermie' ............Done.
 Unload 'Steamer' ............Done.
 Unload 'Steam' ............Done.
 Unload 'Yashiro' ............Done.
 Unload 'Trash' ............Done.
-Unload 'Money' ............Done.
 Unload 'Gold' ............Done.
 Unload 'Ralf' ............Done.
 Unload 'Biker-K'' ............Done.

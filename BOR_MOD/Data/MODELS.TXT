@@ -33,6 +33,7 @@ know	Chair		data/chars/misc/chair.txt
 know	Fence		data/chars/misc/fence.txt
 know	Drum		data/chars/misc/drum.txt
 know	Trolly		data/chars/misc/trolly.txt
+know	Plant		data/chars/misc/plant.txt
 
 # Enemies
 know	K'		data/chars/k/k.txt

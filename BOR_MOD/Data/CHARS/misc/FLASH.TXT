@@ -1,4 +1,4 @@
-# Hit flash
+
 
 name	Flash
 type	none
@@ -6,18 +6,23 @@ shadow	0
 
 
 
-anim idle
+
+
+anim	idle
 	loop	0
-	delay	6
-	offset	36 51
-	frame	data/chars/misc/flash000.gif
-	frame	data/chars/misc/flash001.gif
-	frame	data/chars/misc/flash002.gif
-	frame	data/chars/misc/flash003.gif
-	frame	data/chars/misc/flash004.gif
-	frame	data/chars/misc/flash005.gif
-	frame	data/chars/misc/flash006.gif
-	frame	data/chars/misc/flash007.gif
-	frame	data/chars/misc/flash008.gif
-	frame	data/chars/misc/flash009.gif
-	frame	data/chars/misc/flash010.gif
+	delay	2
+	offset	7 11
+	frame	data/chars/misc/flash000.png
+	frame	data/chars/misc/flash001.png
+	frame	data/chars/misc/flash002.png
+	frame	data/chars/misc/flash003.png
+	frame	data/chars/misc/flash004.png
+	frame	data/chars/misc/flash005.png
+	frame	data/chars/misc/flash006.png
+	frame	data/chars/misc/flash007.png
+	frame	data/chars/misc/flash008.png
+	frame	data/chars/misc/flash009.png
+	frame	data/chars/misc/flash010.png
+		
+#|edited by openBor Stats v 0.67
+		

@@ -80,7 +80,8 @@ order	fdefecdhfecggdab
 
 
 #--group1-----
-spawn	1up
+spawn	Plant
+item	money
 coords	200 180
 at	0
 

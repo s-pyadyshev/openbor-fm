@@ -1,0 +1,30 @@
+name	Plant
+health	1
+type	obstacle
+shadow	0
+diesound data/sounds/klunk.wav
+
+icon	data/chars/misc/trasicon.gif
+
+
+
+
+anim	fall
+	loop	1
+	delay	7
+	offset	12 29
+	frame	data/chars/misc/plant01.png
+	delay	7
+	frame	data/chars/misc/plant02.png
+	delay	24
+	frame	data/chars/misc/plant03.png
+		
+anim	idle
+	loop	0
+	delay	24
+	offset	10 29
+	bbox	0 0 20 30
+	frame	data/chars/misc/0.png
+		
+#|edited by openBor Stats v 0.67
+		
