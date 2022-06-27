@@ -1,6 +1,6 @@
 Total Ram: 17110073344 Bytes
- Free Ram: 9644773376 Bytes
- Used Ram: 6610944 Bytes
+ Free Ram: 8718548992 Bytes
+ Used Ram: 6594560 Bytes
 
 debug:nativeWidth, nativeHeight, bpp, Hz  1920, 1080, 24, 60
 OpenBoR v3.0 Build 6391, Compile Date: Apr  8 2020
@@ -23,8 +23,8 @@ Loading script settings......	Done!
 Loading scripts..............	Done!
 Loading models...............
 
-Joystick: "UNKNOWN" connected at port: 0 at 2022-06-26 22:31:47
-Joystick: "UNKNOWN" connected at port: 1 at 2022-06-26 22:31:47
+Joystick: "UNKNOWN" connected at port: 0 at 2022-06-28 00:13:18
+Joystick: "UNKNOWN" connected at port: 1 at 2022-06-28 00:13:18
 Cacheing 'Flash' from data/chars/misc/flash.txt
 Cacheing 'dio' from Data/Chars/dio/dio.txt
 Cacheing 'Kula' from data/chars/kula/kula.txt
@@ -93,8 +93,8 @@ Save settings so far........	Done!
 
 Level Loading:   'data/levels/example1.txt'
 Total Ram: 17110073344 Bytes
- Free Ram: 9612697600 Bytes
- Used Ram: 70840320 Bytes
+ Free Ram: 8514330624 Bytes
+ Used Ram: 70664192 Bytes
 
 Loaded 'Plant' from data/chars/misc/plant.txt 
 Loaded 'money' from data/chars/misc/money.txt 
@@ -111,9 +111,9 @@ Loaded 'Lobster' from data/chars/Lobster/Lobster.txt
 
 Level Loaded:    'data/levels/example1.txt'
 Total Ram: 17110073344 Bytes
- Free Ram: 9609273344 Bytes
- Used Ram: 72413184 Bytes
-Total sprites mapped: 671
+ Free Ram: 8508809216 Bytes
+ Used Ram: 72265728 Bytes
+Total sprites mapped: 672
 
 
 ************ Shutting Down ************
@@ -126,19 +126,19 @@ OpenBOR is the open source continuation of Beats of Rage by Senile Team.
 Special thanks to SEGA and SNK.
 
 Total Ram: 17110073344 Bytes
- Free Ram: 9636564992 Bytes
- Used Ram: 72097792 Bytes
+ Free Ram: 8564248576 Bytes
+ Used Ram: 71958528 Bytes
 
 Release level data...........
 Level Unloading: 'data/levels/example1.txt'
 Total Ram: 17110073344 Bytes
- Free Ram: 9636564992 Bytes
- Used Ram: 72097792 Bytes
+ Free Ram: 8564248576 Bytes
+ Used Ram: 71958528 Bytes
 
 RAM Status:
 Total Ram: 17110073344 Bytes
- Free Ram: 9636564992 Bytes
- Used Ram: 72097792 Bytes
+ Free Ram: 8564248576 Bytes
+ Used Ram: 71958528 Bytes
 
 Done!
 
