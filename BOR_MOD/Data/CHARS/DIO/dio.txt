@@ -18,13 +18,28 @@ running 15 4 2 1 0
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 anim	attack1
 	delay	14
 	offset	98 125
 	bbox	89 72 28 56
 	frame	data/chars/dio/attack000.png
 	delay	14
-	attack	114 72 22 16 10 0 1 0 0 0
+	attack	125 72 22 16 10 0 1 0 0 0
 	bbox	84 71 28 56
 	movez	0
 	movea	0
@@ -34,7 +49,7 @@ anim	attack1
 		
 anim	attack2
 	delay	7
-	offset	98 126
+	offset	98 125
 	bbox	89 72 28 56
 	frame	data/chars/dio/attack000.png
 	delay	28
@@ -43,19 +58,18 @@ anim	attack2
 	movez	0
 	movea	0
 	move	2
-	offset	98 126
+	offset	98 125
 	frame	data/chars/dio/attack002.png
 		
 anim	fall
-	delay	7
-	offset	30 48
+	delay	10
+	offset	97 122
 	frame	data/chars/dio/fall000.png
-	delay	0
+	delay	10
 	frame	data/chars/dio/fall001.png
-	delay	0
+	delay	20
 	frame	data/chars/dio/fall002.png
-	delay	0
-	offset	19 47
+	delay	100
 	frame	data/chars/dio/fall003.png
 		
 anim	grab
@@ -93,6 +107,17 @@ anim	grabattack2
 	delay	20
 	frame	data/chars/dio/grabattack002.png
 		
+anim	throw
+	bbox	103 72 28 41
+	delay	10
+	offset	112 125
+	frame	data/chars/dio/throw000.png
+	bbox	89 71 28 41
+	offset	112 125
+	delay	30
+	damageonlanding	1 1
+	frame	data/chars/dio/throw001.png
+		
 anim	grabbed
 	movez	0
 	movea	0
@@ -102,12 +127,23 @@ anim	grabbed
 	bbox	87 68 25 45
 	frame	data/chars/dio/pain.png
 		
+anim	grabforward
+	bbox	89 72 28 56
+	delay	10
+	offset	98 125
+	frame	data/chars/dio/attack000.png
+	attack	117 97 35 15 0 1 1 0 0 0
+	offset	98 125
+	delay	30
+	damageonlanding	1 1
+	frame	data/chars/dio/attack002.png
+		
 anim	idle
 	loop	1
 	delay	7
-	offset	20 60
-	bbox	12 0 24 64
-	frame	data/chars/dio/00.png
+	offset	98 128
+	bbox	90 68 27 50
+	frame	data/chars/dio/idle000.png
 		
 anim	jump
 	loop	0
@@ -133,28 +169,28 @@ anim	jumpattack
 		
 anim	jumpattack2
 	loop	0
-	offset	24 18
+	offset	93 97
 	delay	10
-	bbox	25 0 37 18
+	bbox	94 85 37 18
 	frame	data/chars/dio/jumpattack2000.png
 	delay	24
-	attack	0 15 30 15 10 10 1 0 0 0
-	bbox	35 33 27 21
+	attack	61 88 30 15 10 10 1 0 0 0
+	bbox	96 106 27 21
 	movez	0
 	movea	0
 	move	0
-	offset	38 24
+	offset	93 97
 	frame	data/chars/dio/jumpattack2001.png
-	bbox	14 0 29 26
+	bbox	92 89 29 26
 	delay	0
 	frame	data/chars/dio/jumpattack2002.png
-	bbox	14 0 29 26
+	bbox	92 89 29 26
 	delay	0
 	frame	data/chars/dio/jumpattack2003.png
-	bbox	14 12 29 18
+	bbox	92 89 29 26
 	delay	0
 	frame	data/chars/dio/jumpattack2004.png
-	bbox	14 12 29 19
+	bbox	92 89 29 26
 	delay	0
 	frame	data/chars/dio/jumpattack2005.png
 		
@@ -184,7 +220,7 @@ anim	pain
 		
 anim	rise
 	delay	10
-	offset	20 50
+	offset	97 122
 	frame	data/chars/dio/rise000.png
 	frame	data/chars/dio/rise001.png
 		
@@ -207,13 +243,6 @@ anim	runjump
 	offset	95 130
 	bbox	88 69 26 30
 	frame	data/chars/dio/jump001.png
-		
-anim	throw
-	delay	10
-	offset	47 52
-	frame	data/chars/dio/throw000.png
-	delay	30
-	frame	data/chars/dio/throw001.png
 		
 anim	walk
 	loop	1
