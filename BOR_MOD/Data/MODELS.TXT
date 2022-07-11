@@ -4,6 +4,10 @@
 # know		[name]		[path]		// Load when needed
 # 
 
+maxfreespecials 50
+maxfollows 40
+maxattacks 8
+maxattacktypes 40
 nodropen
 
 # Required objects. These must always be loaded.

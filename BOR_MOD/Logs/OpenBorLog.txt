@@ -1,6 +1,6 @@
 Total Ram: 17110073344 Bytes
- Free Ram: 8238997504 Bytes
- Used Ram: 6561792 Bytes
+ Free Ram: 7079575552 Bytes
+ Used Ram: 6488064 Bytes
 
 debug:nativeWidth, nativeHeight, bpp, Hz  1920, 1080, 24, 60
 OpenBoR v3.0 Build 6391, Compile Date: Apr  8 2020
@@ -23,6 +23,7 @@ Loading script settings......	Done!
 Loading scripts..............	Done!
 Loading models...............
 
+Joystick: "UNKNOWN" connected at port: 0 at 2022-07-11 01:33:28
 Cacheing 'Flash' from data/chars/misc/flash.txt
 Cacheing 'dio' from Data/Chars/dio/dio.txt
 Cacheing 'Kula' from data/chars/kula/kula.txt
@@ -79,7 +80,9 @@ Loaded 'Mighty' from data/chars/mighty/mighty.txt
 
 Loading models...............	Done!
 Object engine init...........	Done!
-Input init...................	No Joystick(s) Found!
+Input init...................	
+1 joystick(s) found!
+UNKNOWN - 6 axes, 11 buttons, 1 hat(s)
 Done!
 Create blending tables.......	Done!
 Save settings so far........	Done!
@@ -87,12 +90,13 @@ Save settings so far........	Done!
 
 Level Loading:   'data/levels/example1.txt'
 Total Ram: 17110073344 Bytes
- Free Ram: 8182276096 Bytes
- Used Ram: 70586368 Bytes
+ Free Ram: 7078887424 Bytes
+ Used Ram: 71311360 Bytes
 
 Loaded 'Plant' from data/chars/misc/plant.txt 
 Loaded 'money' from data/chars/misc/money.txt 
 Loaded 'Shermie' from data/chars/shermie/shermie.txt 
+Command 'staydown' not understood in file 'data/levels/example1.txt'!
 Loaded 'Steamer' from data/chars/misc/steamer.txt 
 Loaded 'Steam' from data/chars/misc/steam.txt 
 Loaded 'Yashiro' from data/chars/yashiro/yashiro.txt 
@@ -105,8 +109,8 @@ Loaded 'Lobster' from data/chars/Lobster/Lobster.txt
 
 Level Loaded:    'data/levels/example1.txt'
 Total Ram: 17110073344 Bytes
- Free Ram: 8175132672 Bytes
- Used Ram: 72187904 Bytes
+ Free Ram: 7077322752 Bytes
+ Used Ram: 75599872 Bytes
 Total sprites mapped: 671
 
 
@@ -120,19 +124,19 @@ OpenBOR is the open source continuation of Beats of Rage by Senile Team.
 Special thanks to SEGA and SNK.
 
 Total Ram: 17110073344 Bytes
- Free Ram: 8175972352 Bytes
- Used Ram: 72208384 Bytes
+ Free Ram: 7053778944 Bytes
+ Used Ram: 75550720 Bytes
 
 Release level data...........
 Level Unloading: 'data/levels/example1.txt'
 Total Ram: 17110073344 Bytes
- Free Ram: 8175972352 Bytes
- Used Ram: 72208384 Bytes
+ Free Ram: 7053774848 Bytes
+ Used Ram: 75550720 Bytes
 
 RAM Status:
 Total Ram: 17110073344 Bytes
- Free Ram: 8175972352 Bytes
- Used Ram: 72208384 Bytes
+ Free Ram: 7054237696 Bytes
+ Used Ram: 73715712 Bytes
 
 Done!
 

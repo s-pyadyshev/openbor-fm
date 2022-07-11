@@ -14,9 +14,9 @@ frontpanel	data/bgs/street/f03.gif
 # Load 'panels'. Up to 26 panels can be loaded.
 # They can be referenced using A-Z
 # Specify normal, neon and screen, or 'none'
-panel		data/bgs/street/n01.gif	data/bgs/street/neon01.gif	data/bgs/street/s01.gif
+panel		data/bgs/jungle/jungle000.png	none				none
 panel		data/bgs/street/n02.gif	data/bgs/street/neon02.gif	data/bgs/street/s02.gif
-panel		data/bgs/street/n03.gif	none				none
+panel		data/bgs/jungle/jungle000.png	none				none
 panel		data/bgs/street/n04.gif	none				none
 panel		data/bgs/street/n05.gif	none				data/bgs/street/s05
 panel		data/bgs/street/n06.gif	none				none
@@ -86,7 +86,9 @@ coords	200 180
 at	0
 
 spawn	Shermie
-coords	350 160
+health	300
+staydown 1000
+coords	50 160
 at	10
 
 spawn	Shermie

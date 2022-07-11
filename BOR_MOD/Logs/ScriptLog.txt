@@ -1,0 +1,20 @@
+
+#### animationscript function main #####
+# Data/Chars/dio/dio.txt
+########################################
+void main()
+{
+    int frame = getlocalvar("frame");
+    int animhandle = getlocalvar("animhandle");
+    if(animhandle==5)
+    {
+
+	if(frame==2) {
+		void self = getlocalvar("self");
+		int health = getentityproperty(self, "health");
+		changeentityproperty(self, "health", health + 1);
+	}
+        return;
+    }
+
+}

@@ -5,34 +5,6 @@ gfxshadow	1
 speed   10
 running 15 4 2 1 0
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 anim	attack1
 	delay	14
 	offset	98 125
@@ -47,7 +19,7 @@ anim	attack1
 	offset	98 125
 	frame	data/chars/dio/attack001.png
 		
-anim	attack2
+anim	attack3
 	delay	7
 	offset	98 125
 	bbox	89 72 28 56
@@ -80,6 +52,13 @@ anim	grab
 	frame	data/chars/dio/grab000.png
 		
 anim	grabattack
+@script
+	if(frame==2) {
+		void self = getlocalvar("self");
+		int health = getentityproperty(self, "health");
+		changeentityproperty(self, "health", health + 1);
+	}
+@end_script
 	loop	0
 	offset	92 130
 	bbox	83 70 26 65
@@ -106,17 +85,6 @@ anim	grabattack2
 	attack	98 71 32 32 4 1 1 0 0 0
 	delay	20
 	frame	data/chars/dio/grabattack002.png
-		
-anim	throw
-	bbox	103 72 28 41
-	delay	10
-	offset	112 125
-	frame	data/chars/dio/throw000.png
-	bbox	89 71 28 41
-	offset	112 125
-	delay	30
-	damageonlanding	1 1
-	frame	data/chars/dio/throw001.png
 		
 anim	grabbed
 	movez	0
@@ -209,6 +177,20 @@ anim	jumpland
 	bbox	93 100 26 30
 	frame	data/chars/dio/jump000.png
 		
+anim	attack2
+	delay	14
+	offset	98 125
+	bbox	89 72 28 56
+	frame	data/chars/dio/attack000.png
+	delay	14
+	attack	125 72 22 16 10 0 1 0 0 0
+	bbox	84 71 28 56
+	movez	0
+	movea	0
+	move	0
+	offset	98 125
+	frame	data/chars/dio/attack001.png
+		
 anim	pain
 	movez	0
 	movea	0
@@ -244,14 +226,27 @@ anim	runjump
 	bbox	88 69 26 30
 	frame	data/chars/dio/jump001.png
 		
+anim	throw
+	bbox	103 72 28 41
+	delay	10
+	offset	112 125
+	frame	data/chars/dio/throw000.png
+	bbox	89 71 28 41
+	offset	112 125
+	delay	30
+	damageonlanding	1 1
+	frame	data/chars/dio/throw001.png
+		
 anim	walk
 	loop	1
 	delay	14
 	offset	98 128
 	bbox	90 68 27 50
 	frame	data/chars/dio/walk000.png
+	bbox	93 68 27 50
 	offset	101 128
 	frame	data/chars/dio/walk001.png
+	bbox	93 67 27 50
 	frame	data/chars/dio/walk002.png
 		
 #|edited by openBor Stats v 0.67
